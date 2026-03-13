@@ -5,7 +5,7 @@
 // WiFi Credentials - Update these with your network details
 // ============================================================
 const char* WIFI_SSID     = "sarasiruha300";
-const char* WIFI_PASSWORD = "9885104058";
+const char* WIFI_PASSWORD = "xxx";
 
 // ============================================================
 // NTP Configuration - Primary servers
